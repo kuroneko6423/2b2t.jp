@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1",
+    "logger.js": "acrylic-style/logger.js"
+  }
+}
